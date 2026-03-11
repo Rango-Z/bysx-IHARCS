@@ -1,0 +1,24 @@
+server:
+  port: 8102
+
+spring:
+  application:
+    name: device-data
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/smart_home
+
+mqtt:
+  url: tcp://localhost:1883
+  username:
+  password:
+  clientId: device-data-service
+  topic:
+    status: home/device/+/status
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+

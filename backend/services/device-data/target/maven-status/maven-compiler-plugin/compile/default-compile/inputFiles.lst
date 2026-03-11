@@ -1,0 +1,8 @@
+C:\Users\luv_1\Desktop\biyeshixi\backend\services\device-data\src\main\java\com\bysx\devicedata\DeviceDataApplication.java
+C:\Users\luv_1\Desktop\biyeshixi\backend\services\device-data\src\main\java\com\bysx\devicedata\mongo\DeviceLogDoc.java
+C:\Users\luv_1\Desktop\biyeshixi\backend\services\device-data\src\main\java\com\bysx\devicedata\mongo\DeviceLogRepository.java
+C:\Users\luv_1\Desktop\biyeshixi\backend\services\device-data\src\main\java\com\bysx\devicedata\mongo\DeviceRealtimeDoc.java
+C:\Users\luv_1\Desktop\biyeshixi\backend\services\device-data\src\main\java\com\bysx\devicedata\mongo\DeviceRealtimeRepository.java
+C:\Users\luv_1\Desktop\biyeshixi\backend\services\device-data\src\main\java\com\bysx\devicedata\mqtt\MqttConfig.java
+C:\Users\luv_1\Desktop\biyeshixi\backend\services\device-data\src\main\java\com\bysx\devicedata\mqtt\MqttProps.java
+C:\Users\luv_1\Desktop\biyeshixi\backend\services\device-data\src\main\java\com\bysx\devicedata\service\DeviceStatusIngestService.java

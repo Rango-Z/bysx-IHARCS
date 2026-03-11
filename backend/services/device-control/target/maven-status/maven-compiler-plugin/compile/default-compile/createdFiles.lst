@@ -1,0 +1,12 @@
+com\bysx\devicecontrol\web\ControlController.class
+com\bysx\devicecontrol\DeviceControlApplication.class
+com\bysx\devicecontrol\repo\ControlRecordRepository.class
+com\bysx\devicecontrol\entity\ControlRecordEntity.class
+com\bysx\devicecontrol\web\dto\SendControlRequest.class
+com\bysx\devicecontrol\mqtt\MqttProps$Topic.class
+com\bysx\devicecontrol\web\dto\ControlRecordView.class
+com\bysx\devicecontrol\service\DeviceLookupService.class
+com\bysx\devicecontrol\service\MqttPublishService.class
+com\bysx\devicecontrol\service\ControlResultConsumeService.class
+com\bysx\devicecontrol\mqtt\MqttProps.class
+com\bysx\devicecontrol\mqtt\MqttConfig.class

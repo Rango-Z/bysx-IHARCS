@@ -1,0 +1,14 @@
+com\bysx\datav\web\DataVController.class
+com\bysx\datav\mongo\DeviceLogDoc.class
+com\bysx\datav\web\dto\UsageStatResponse.class
+com\bysx\datav\mongo\DeviceRealtimeDoc.class
+com\bysx\datav\web\dto\EnergyPieResponse.class
+com\bysx\datav\service\UserDeviceClient.class
+com\bysx\datav\service\StatsService$UsageResult.class
+com\bysx\datav\service\UserDeviceClient$DeviceView.class
+com\bysx\datav\service\StatsService.class
+com\bysx\datav\web\dto\EnergyPieResponse$Item.class
+com\bysx\datav\web\dto\RealtimeDeviceCard.class
+com\bysx\datav\DataVApplication.class
+com\bysx\datav\service\StatsService$EnergyItem.class
+com\bysx\datav\mongo\DeviceRealtimeRepository.class

@@ -1,0 +1,5 @@
+com\bysx\common\dto\ControlCommand.class
+com\bysx\common\dto\ControlResult.class
+com\bysx\common\api\ApiResponse.class
+com\bysx\common\model\DeviceType.class
+com\bysx\common\model\CommandStatus.class

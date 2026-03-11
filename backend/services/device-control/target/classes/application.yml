@@ -1,0 +1,29 @@
+server:
+  port: 8103
+
+spring:
+  application:
+    name: device-control
+  datasource:
+    url: jdbc:mysql://localhost:3306/smart_home?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: none
+
+mqtt:
+  url: tcp://localhost:1883
+  username:
+  password:
+  clientId: device-control-service
+  topic:
+    result: home/device/+/control/result
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+

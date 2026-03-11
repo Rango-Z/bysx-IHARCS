@@ -1,0 +1,9 @@
+com\bysx\userdevice\web\DeviceController.class
+com\bysx\userdevice\web\dto\BindDeviceRequest.class
+com\bysx\userdevice\entity\DeviceEntity.class
+com\bysx\userdevice\entity\UserEntity.class
+com\bysx\userdevice\entity\UserDeviceBindEntity.class
+com\bysx\userdevice\repo\DeviceRepository.class
+com\bysx\userdevice\web\dto\DeviceView.class
+com\bysx\userdevice\UserDeviceApplication.class
+com\bysx\userdevice\repo\UserDeviceBindRepository.class

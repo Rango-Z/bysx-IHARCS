@@ -1,0 +1,11 @@
+com\bysx\devicedata\mongo\DeviceLogDoc.class
+com\bysx\devicedata\DeviceDataApplication.class
+com\bysx\devicedata\mongo\DeviceRealtimeRepository.class
+com\bysx\devicedata\mqtt\MqttProps$Topic.class
+com\bysx\devicedata\service\DeviceStatusIngestService$2.class
+com\bysx\devicedata\mqtt\MqttProps.class
+com\bysx\devicedata\mongo\DeviceLogRepository.class
+com\bysx\devicedata\service\DeviceStatusIngestService$1.class
+com\bysx\devicedata\service\DeviceStatusIngestService.class
+com\bysx\devicedata\mongo\DeviceRealtimeDoc.class
+com\bysx\devicedata\mqtt\MqttConfig.class
